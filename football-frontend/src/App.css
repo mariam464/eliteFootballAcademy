@@ -1,0 +1,9 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: linear-gradient(rgb(67, 94, 45), rgb(34, 49, 63));
+  min-height: 100vh;
+}
+
