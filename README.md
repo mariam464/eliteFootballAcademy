@@ -70,12 +70,12 @@ Image upload support
 1. Navigate to `backend/`  
 2. Configure database in `application.properties`:
    ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/elite_academy
-spring.datasource.username=your_db_username
-spring.datasource.password=your_db_password
+      spring.datasource.url=jdbc:postgresql://localhost:5432/elite_academy
+      spring.datasource.username=your_db_username
+      spring.datasource.password=your_db_password
 
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+      spring.jpa.hibernate.ddl-auto=update
+      spring.jpa.show-sql=true
    ```
 3. Run the application:
    ```bash
